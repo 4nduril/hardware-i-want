@@ -6,6 +6,7 @@ The CPU is the heart of the computer. Or is it the brain? Whatever. All your fur
   + [Socket](#socket)
   + [Clock rate](#clock-rate)
   + [Number of cores](#core-count)
+  + [Thermal Design Power](#tdp)
   + [Overclocking support](#overclocking)
   + [Memory support](#ram)
     + [Multi-channel support](#ram-multichannel)
@@ -39,6 +40,10 @@ However, note that a fair share of the available and often used software is not 
 It depends on the software you are going to use and the type of machine you are building. In general, for a computer that is going to be used as a server, e.g. a webserver, it totally makes sense to have as many cores as you are willing to pay. For a desktop workstation or a laptop, not so much. The current line of desktop cpus has around 2–4 cores.
 
 [Wikipedia on multi-core-processors](https://en.wikipedia.org/wiki/Multi-core_processor)
+
+### <a name="tdp"></a>Thermal Design Power
+
+The TDP is a measure for the maximum amount of heat running "real" applications. It is therefore a measure for the cooling needs and of the power needs of a CPU. The smaller the better.
 
 ### <a name="overclocking"></a>Overclocking support
 
